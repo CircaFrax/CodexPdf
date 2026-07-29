@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/CircaFrax/CodexNavigator/main/assets/CodexPdf_box.png" width="420">
 </p>
 
-Sha 256 : d19e82e2783e7e52123364951e47250658adc0b3f98eb9294e32f3cd6f271aa0
+`SHA256: d19e82e2783e7e52123364951e47250658adc0b3f98eb9294e32f3cd6f271aa0`
 
 ### 📁 Structure
 
