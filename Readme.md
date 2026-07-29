@@ -16,6 +16,10 @@
 
 </p>
 
+## Aperçu
+<img src="assets/Screenshot_v1.1.0.png" width="650">
+*Menu à gauche, prévisualisation live à droite – 100% offline*
+
 ### 📁 Structure
 
 ```
