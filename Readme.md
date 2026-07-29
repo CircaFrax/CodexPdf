@@ -2,7 +2,7 @@
   <img src="https://circafrax.github.io/assets/banniere.png" width="500">
 </p>
 
-# CodexNavigator v3.0.0
+# CodexPdf v1.1.0
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CircaFrax/CodexNavigator/main/assets/CodexNavigator_box.png" width="420">
@@ -12,7 +12,7 @@
 ### 📁 Structure
 
 ```
-CodexNavigator/
+CodexPdf/
 ├───CodexNavigator.exe
 ├───LICENCE.md
 ├───LICENSE.md
@@ -20,7 +20,7 @@ CodexNavigator/
 ```
 
 ### 🔒 Confidentialité
-- **Zéro réseau** : sert de lien vers les navigateurs.
+- **Zéro réseau** : 100% offline.
 
 ### 📄 Licence
 CircaFrax Proprietary Freeware
