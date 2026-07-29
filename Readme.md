@@ -5,7 +5,7 @@
 # CodexPdf v1.1.0
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CircaFrax/CodexNavigator/main/assets/CodexNavigator_box.png" width="420">
+  <img src="https://raw.githubusercontent.com/CircaFrax/CodexNavigator/main/assets/CodexPdf_box.png" width="420">
 </p>
 
 
