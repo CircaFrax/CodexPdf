@@ -24,7 +24,7 @@
 
 ```
 CodexPdf/
-├───CodexNavigator.exe
+├───CodexPdf.exe
 ├───LICENCE.md
 ├───LICENSE.md
 └───THIRD_PARTY_LICENSES.md
