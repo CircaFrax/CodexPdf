@@ -62,11 +62,25 @@ CodexPdf/
 └───THIRD_PARTY_LICENSES.md
 ```
 
+
+Pas d'installation. Double-clic et c'est parti, comme en 1998 mais en mieux.
+
 ### 🔒 Confidentialité
-- **Zéro réseau** : 100% offline.
+
+- **Zéro réseau** : 100% offline, vérifiable au pare-feu
+- **Zéro collecte** : n'écrit que les fichiers que vous demandez
+- **Briques 100% permissives** : `pypdf (BSD) + pypdfium2 (BSD) + Pillow (HPND) + customtkinter (MIT)`
+- **Code source privé** : Licence CircaFrax Proprietary Freeware v1.0
 
 ### 📄 Licence
-CircaFrax Proprietary Freeware
+
+Gratuit à vie, usage perso / associatif / pro / commercial. Distribution libre à l'identique avec les fichiers de licence.
+
+Voir `LICENCE.md` et `THIRD_PARTY_LICENSES.md` inclus.
 
 ---
-**Fait partie de la suite Codex** — des logiciels qui s'utilisent sans installation, comme en 1998, mais en mieux.
+
+**Fait partie de la suite Codex** — des outils offline CircaFrax.
+**CircaFrax - Astra - Marque de référence**
+
+**Contact pro :** a venir
