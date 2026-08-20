@@ -69,8 +69,8 @@ Pas d'installation. Double-clic et c'est parti, comme en 1998 mais en mieux.
 
 - **Zéro réseau** : 100% offline, vérifiable au pare-feu
 - **Zéro collecte** : n'écrit que les fichiers que vous demandez
-- **Briques 100% permissives** : `pypdf (BSD) + pypdfium2 (BSD) + Pillow (HPND) + customtkinter (MIT)`
-- **Code source privé** : Licence CircaFrax Proprietary Freeware v1.0
+- **100% légal** : licences open-source permissives complètes incluses dans le zip
+- **Code source privé** : CircaFrax Proprietary Freeware v1.0 - pas d'installation
 
 ### 📄 Licence
 
