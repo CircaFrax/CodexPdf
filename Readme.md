@@ -38,7 +38,7 @@
 
 ## ✨ 9 outils en 1 exécutable
 
-- **👁️ Visionneuse PDF** - navigation fluide, zoom, sans bloc
+- **Visionneuse PDF** - navigation fluide, zoom, sans bloc
 - **Fusionner** - assemble plusieurs PDF
 - **Diviser / Extraire** - ex: extraire les pages 1-3
 - **Extraire les images** - avec conversion auto pour formats pros
