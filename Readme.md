@@ -5,7 +5,7 @@
 # CodexPdf v1.1.1 - Le couteau suisse PDF 100% offline
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CircaFrax/CodexNavigator/main/assets/CodexPdf_box.png" width="420">
+  <img src="https://raw.githubusercontent.com/CircaFrax/CodexPdf/main/assets/CodexPdf_box.png" width="420">
 </p>
 
 <p align="center">
