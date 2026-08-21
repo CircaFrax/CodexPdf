@@ -81,5 +81,3 @@ Voir `LICENCE.md` et `THIRD_PARTY_LICENSES.md` inclus.
 
 **Fait partie de la suite Codex** — des outils offline CircaFrax.
 **CircaFrax - Astra - Marque de référence**
-
-**Contact pro :** à venir
