@@ -11,7 +11,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/offline-100%25-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/tracker-0-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/licence-Proprietary%20Freeware-gold?style=for-the-badge">
+  <img src="https://img.shields.io/badge/licence-BSD--3--Clause-gold?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OCR-fra%2Beng-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge">
 </p>
 
@@ -31,14 +32,15 @@
 |---|---|
 | Vos documents sont envoyés sur un serveur distant | **Vos PDF ne quittent jamais votre PC** |
 | Cookies, publicités, limite de pages, compte obligatoire | **0 cookie, 0 pub, 0 compte, 0 limite** |
-| Nécessite une connexion | **Fonctionne sans internet** |
+| Nécessite une connexion | **Fonctionne sans internet, même l'OCR** |
 | Conditions d'utilisation floues sur vos données | **Confidentialité totale, vérifiable** |
 
 > Conçu pour les documents sensibles : entreprises, associations, clubs, amicales.
 
-## ✨ 9 outils en 1 exécutable
+## ✨ 10 outils en 1 exécutable
 
-- **Visionneuse PDF** - navigation fluide, zoom, sans bloc
+- **Visionneuse PDF** - navigation fluide, zoom molette, sans coupure (fix v1.1.1)
+- **OCR - Image → Texte** - **NOUVEAU v1.1.1** - PDF scanné → PDF cherchable / txt, 100% offline avec Tesseract (`fra` + `eng`)
 - **Fusionner** - assemble plusieurs PDF
 - **Diviser / Extraire** - ex: extraire les pages 1-3
 - **Extraire les images** - avec conversion auto pour formats pros
@@ -50,34 +52,6 @@
 
 ## Aperçu
 <img src="assets/Screenshot_v1.1.0.png" width="700">
-*Interface à deux panneaux – Menu à gauche, prévisualisation à droite*
+*Interface à deux panneaux – Menu à gauche, prévisualisation à droite - Nouveau module OCR en bas*
 
 ### 📁 Contenu du Zip
-
-```
-CodexPdf/
-├── CodexPdf.exe
-├── LICENCE.md
-├── LICENSE.md
-└── THIRD_PARTY_LICENSES.md
-```
-
-Pas d'installation. Double-clic et c'est parti, comme en 1998 mais en mieux.
-
-### 🔒 Confidentialité
-
-- **Zéro réseau** : 100% offline, vérifiable au pare-feu
-- **Zéro collecte** : n'écrit que les fichiers que vous demandez
-- **100% légal** : licences open-source permissives complètes incluses dans le zip
-- **Code source privé** : CircaFrax Proprietary Freeware v1.0
-
-### 📄 Licence
-
-Gratuit à vie, usage perso / associatif / pro / commercial. Distribution libre à l'identique avec les fichiers de licence.
-
-Voir `LICENCE.md` et `THIRD_PARTY_LICENSES.md` inclus.
-
----
-
-**Fait partie de la suite Codex** — des outils offline CircaFrax.
-**CircaFrax - Astra - Marque de référence**
