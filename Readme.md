@@ -11,16 +11,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/offline-100%25-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/tracker-0-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/licence-BSD--3--Clause-gold?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OCR-fra%2Beng-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/licence-BSD--3--Clause%20Binaire-gold?style=for-the-badge">
+  <img src="https://img.shields.io/badge/source-Priv%C3%A9-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge">
 </p>
 
 <p align="center">
 
-### ⬇️ [Télécharger CodexPdf v1.1.1 (Windows)](https://github.com/CircaFrax/CodexPdf/releases/download/v1.1.1/CodexPdf_v1.1.1.zip)
+### ⬇️ [Télécharger CodexPdf v1.1.1](https://github.com/CircaFrax/CodexPdf/releases/download/v1.1.1/CodexPdf_v1.1.1.zip)
 
-`SHA256: Zip bientot en ligne`
+`SHA256: d19e82e2783e7e52123364951e47250658adc0b3f98eb9294e32f3cd6f271aa0`
 
 </p>
 
@@ -30,31 +30,20 @@
 
 | Services en ligne | **CodexPdf** |
 |---|---|
-| Vos documents sont envoyés sur un serveur distant | **Vos PDF ne quittent jamais votre PC** |
-| Cookies, publicités, limite de pages, compte obligatoire | **0 cookie, 0 pub, 0 compte, 0 limite** |
-| Nécessite une connexion | **Fonctionne sans internet, même l'OCR** |
-| Conditions d'utilisation floues sur vos données | **Confidentialité totale, vérifiable** |
+| Vos documents partent sur un serveur | **Vos PDF ne quittent jamais votre PC** |
+| Cookies, pubs, limite | **0 cookie, 0 pub, 0 limite** |
+| Besoin d'internet | **Fonctionne sans internet, même l'OCR** |
 
-> Conçu pour les documents sensibles : entreprises, associations, clubs, amicales.
+> Pour documents sensibles : entreprises, associations, clubs, amicales.
 
 ## ✨ 10 outils en 1 exécutable
 
-- **Visionneuse PDF** - navigation fluide, zoom molette, sans coupure (fix v1.1.1)
-- **OCR - Image → Texte** - **NOUVEAU v1.1.1** - PDF scanné → PDF cherchable / txt, 100% offline avec Tesseract (`fra` + `eng`)
-- **Fusionner** - assemble plusieurs PDF
-- **Diviser / Extraire** - ex: extraire les pages 1-3
-- **Extraire les images** - avec conversion auto pour formats pros
-- **Compresser (léger)** - réduit sans perte visible
-- **Rotation** - corrige les scans à l'envers 90°/180°/270°
-- **Nettoyer métadonnées** - anonymise avant partage
-- **Chiffrer par mot de passe**
-- **PDF -> PNG** - pour partager sur mobile
-
-## Aperçu
-<img src="assets/Screenshot_v1.1.0.png" width="700">
-*Interface à deux panneaux – Menu à gauche, prévisualisation à droite - Nouveau module OCR en bas*
+- **Visionneuse** - fluide, zoom molette
+- **OCR** - **NOUVEAU v1.1.1** - PDF scanné -> PDF cherchable / txt, 100% offline `fra+eng`
+- **Fusionner, Diviser, Extraire images, Compresser, Rotation, Nettoyer métadonnées, Chiffrer, PDF->PNG**
 
 ### 📁 Contenu du Zip
+
 
 ```
 CodexPdf/
@@ -64,27 +53,21 @@ CodexPdf/
 └── THIRD_PARTY_LICENSES.md
 ```
 
-Pas d'installation. Double-clic et c'est parti, comme en 1998 mais en mieux. L'OCR fonctionne sans internet.
+Pas d'installation. Double-clic.
 
-### 🔒 Confidentialité
+### 🔒 Confidentialité & Code Source
 
-- **Zéro réseau** : 100% offline, vérifiable au pare-feu, même l'OCR français
-- **Zéro collecte** : n'écrit que les fichiers que vous demandez
-- **100% légal & libre de droits** : Licence BSD-3-Clause CircaFrax + licences open-source permissives (MIT, BSD, Apache 2.0) incluses.
+- **Zéro réseau** : 100% offline, même l'OCR
+- **Code source privé** : Reste propriété exclusive CircaFrax pour protéger la suite Codex et éviter les failles
+- **Binaire libre de droits** : Exe sous BSD-3-Clause CircaFrax - gratuit à vie perso/asso/pro/commercial
+- **100% légal** : 【entity-Tesseract¦canonical_name=Tesseract】 Apache 2.0 + libs MIT/BSD
 
 ### 📄 Licence
 
-**BSD-3-Clause CircaFrax - Libre de droits**
+**Source : Privé - Tous droits réservés CircaFrax**
+**Binaire : BSD-3-Clause CircaFrax - Libre de droits**
 
-Copyright (c) 2026 CircaFrax
-
-Gratuit à vie, usage perso / associatif / pro / commercial. Vous pouvez modifier, partager, inclure dans une prestation. Il suffit de garder la mention CircaFrax.
-
-Voir `LICENCE.md` et `THIRD_PARTY_LICENSES.md` inclus.
-
-**Moteur OCR :** Tesseract OCR (Apache 2.0) via UB-Mannheim - https://github.com/UB-Mannheim/tesseract/wiki
+Gratuit à vie. Redistribution libre de l'exe à l'identique avec ses licences. Voir `LICENCE.md`.
 
 ---
-
-**Fait partie de la suite Codex** — des outils offline CircaFrax.
-**CircaFrax - Astra - Marque de référence**
+**Suite Codex - Outils offline CircaFrax**
