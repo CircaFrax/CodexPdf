@@ -55,3 +55,34 @@
 *Interface à deux panneaux – Menu à gauche, prévisualisation à droite - Nouveau module OCR en bas*
 
 ### 📁 Contenu du Zip
+CodexPdf_v1.1.1/
+├── CodexPdf_v1.1.1.exe
+├── LICENSE.md
+├── LICENCE.md
+└──THIRD_PARTY_LICENSES.md
+
+Pas d'installation. Double-clic et c'est parti, comme en 1998 mais en mieux. L'OCR fonctionne sans internet.
+
+### 🔒 Confidentialité
+
+- **Zéro réseau** : 100% offline, vérifiable au pare-feu, même l'OCR français
+- **Zéro collecte** : n'écrit que les fichiers que vous demandez
+- **100% légal & libre de droits** : Licence BSD-3-Clause CircaFrax + licences open-source permissives (MIT, BSD, Apache 2.0) incluses
+- **Code source ouvert** : Fork possible, modifiable, redistribuable perso / asso / pro / commercial
+
+### 📄 Licence
+
+**BSD-3-Clause CircaFrax - Libre de droits**
+
+Copyright (c) 2026 CircaFrax
+
+Gratuit à vie, usage perso / associatif / pro / commercial. Vous pouvez modifier, partager, inclure dans une prestation. Il suffit de garder la mention CircaFrax.
+
+Voir `LICENCE.md` et `THIRD_PARTY_LICENSES.md` inclus.
+
+**Moteur OCR :** Tesseract OCR (Apache 2.0) via UB-Mannheim - https://github.com/UB-Mannheim/tesseract/wiki
+
+---
+
+**Fait partie de la suite Codex** — des outils offline CircaFrax.
+**CircaFrax - Astra - Marque de référence**
