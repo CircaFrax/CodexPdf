@@ -55,11 +55,14 @@
 *Interface à deux panneaux – Menu à gauche, prévisualisation à droite - Nouveau module OCR en bas*
 
 ### 📁 Contenu du Zip
-CodexPdf_v1.1.1/
-├── CodexPdf_v1.1.1.exe
-├── LICENSE.md
+
+```
+CodexPdf/
+├── CodexPdf_v1.1.0.exe
 ├── LICENCE.md
-└──THIRD_PARTY_LICENSES.md
+├── LICENSE.md
+└── THIRD_PARTY_LICENSES.md
+```
 
 Pas d'installation. Double-clic et c'est parti, comme en 1998 mais en mieux. L'OCR fonctionne sans internet.
 
