@@ -70,8 +70,7 @@ Pas d'installation. Double-clic et c'est parti, comme en 1998 mais en mieux. L'O
 
 - **Zéro réseau** : 100% offline, vérifiable au pare-feu, même l'OCR français
 - **Zéro collecte** : n'écrit que les fichiers que vous demandez
-- **100% légal & libre de droits** : Licence BSD-3-Clause CircaFrax + licences open-source permissives (MIT, BSD, Apache 2.0) incluses
-- **Code source ouvert** : Fork possible, modifiable, redistribuable perso / asso / pro / commercial
+- **100% légal & libre de droits** : Licence BSD-3-Clause CircaFrax + licences open-source permissives (MIT, BSD, Apache 2.0) incluses.
 
 ### 📄 Licence
 
