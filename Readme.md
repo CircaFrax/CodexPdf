@@ -58,7 +58,7 @@
 
 ```
 CodexPdf/
-├── CodexPdf_v1.1.0.exe
+├── CodexPdf_v1.1.1.exe
 ├── LICENCE.md
 ├── LICENSE.md
 └── THIRD_PARTY_LICENSES.md
