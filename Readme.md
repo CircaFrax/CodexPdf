@@ -42,6 +42,10 @@
 - **OCR** - **NOUVEAU v1.1.1** - PDF scanné -> PDF cherchable / txt, 100% offline `fra+eng`
 - **Fusionner, Diviser, Extraire images, Compresser, Rotation, Nettoyer métadonnées, Chiffrer, PDF->PNG**
 
+## Aperçu
+<img src="assets/Screenshot_v1.1.1.png" width="700">
+*Menu outils a gauche – interface a droite*
+
 ### 📁 Contenu du Zip
 
 
