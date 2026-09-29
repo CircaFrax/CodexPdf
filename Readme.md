@@ -20,7 +20,7 @@
 
 ### ⬇️ [Télécharger CodexPdf v1.1.1](https://github.com/CircaFrax/CodexPdf/releases/download/v1.1.1/CodexPdf_v1.1.1.zip)
 
-`SHA256: 73275e80286af894f3b693cbc59927d4dfc159c8840a0f7724b20ef767deb0da`
+`SHA256: 021c1321b74f64e72acbcf62539f6f4ffcbc754175814432deecdefef9f64f1e`
 
 </p>
 
